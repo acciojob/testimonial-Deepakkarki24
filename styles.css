@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+main{
+	Background-color: #f5f5f5;
+	padding: 10px;
+}
+
+.testiBox{
+	padding:10px;
+	background-color:white;
+	color:black;
+	border: 1px solid #f5f5f5;
+	margin: 10px 0;
+}
+
+.author{
+	text-align:right;
+	font-style:italic;
+}

@@ -20,7 +20,8 @@ div{
 	width: 100%;
 }
 
-div p:last-child{
+author{
 	text-align:right;
 	font-style:italic;
+	display:block;
 }
